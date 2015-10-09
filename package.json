@@ -26,6 +26,7 @@
     "mocha": "1.21.5"
   },
   "dependencies": {
+    "node-task-scheduler": "^2.2.0"
   },
   "keywords": [
     "personal assistant",
