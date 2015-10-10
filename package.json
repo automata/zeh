@@ -32,9 +32,10 @@
     "bot"
   ],
   "scripts": {
-    "test": "node_modules/.bin/grunt test"
+    "build": "node_modules/.bin/grunt"
   },
+  "main": "./src/main",
   "bin": {
-    "zeh": "./src/main.js"
+    "zeh": "./bin/zeh"
   }
 }
