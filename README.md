@@ -1,4 +1,4 @@
-# ZEH: Zen Enlightment to Humans
+# ZEH: Zen Enlightenment to Humans
 
 ZEH is a personal assistant, a bot to help you on daily tasks.
 
